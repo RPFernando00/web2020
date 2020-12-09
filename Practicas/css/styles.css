@@ -1,0 +1,21 @@
+div{
+    font-size: 130%;
+    color: gray;
+    border: solid 1px black;
+}
+#primero{
+    background-color: tomato;
+}
+#segundo{
+    background-color: lightblue;
+}
+#tercero{
+    background-color: lightgreen;
+}
+/* Selector centrado */
+.centrado{
+    text-align: center;
+}
+.color_rojo{
+    color: red;
+}
