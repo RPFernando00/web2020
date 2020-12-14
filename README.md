@@ -1,6 +1,11 @@
-# MI primer repositorio web2020
-Este repositorio es para Practicar HTML y CSS
+# Bienvenidos a mi sitio web
 
-Con este repositorio vamos aprender los lenguajes usados en la web.
+### Mi nombre es Fernando 
 
-[Ver mi proyecto de vida](https://rpfernando00.github.io/web2020/proyecto_vida)
+Te invito a ver mi proyecto de vida en el siguiente enlace:
+
+[Ver mi proyecto de vida](https://rpfernando00.github.io/we¨b2020/proyecto_vida)
+
+Sigueme en mis redes sociales:¨
+
+[Facebook](https://www.facebook.com/fernando.rodriguezpichardo.52/)
