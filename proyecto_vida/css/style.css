@@ -1,36 +1,165 @@
 body{
-    background-image: url(/proyecto_vida/images/fondo.jpg);
+    background-image: url(https://i.pinimg.com/originals/aa/06/7e/aa067e79819baacfd6264b68067ecdf0.jpg);
+    background-size: 100% 100%;
     
-}
-header_0, article_0{
-    font-weight: 100;
+    background-attachment: fixed;
 }
 .container {
-    width: 760px;
-    /* margin: 5px auto; */
+    width: 1885px;
+    height: 900px;
+    padding-right: 0px;
 }
 .article_0{
-    color: aliceblue; 
-}
-header h1{
-    background-color: none;
     color: white;
-    padding: 15px 0;
-    font-weight: 100;
-    background-color: gray;
-
+    font-size: 25px; 
+   /*  border: 1px solid #000000; */
 }
+.barra{
+    color: black;
+    text-align: center;
+    font-weight: 100px;
+    background-color: none;
+    margin: 0px 0px;
+    padding-bottom: 25px;
+    padding-top: 20px;
+    font-size: x-large;
+    font-size: 40px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+header nav{
+    text-align: center;
+    padding-top: 10px;
+    margin-top: 15px;
+}
+
 header nav li{
     list-style: none;
     display: inline-block;
-    border-left: oldlace;
-    border-right: oldlace;
-    color: white;
-    font-size: 15px;
+    font-size: 30px;
     padding: 5px;
+    padding-right: 0px;
+    padding-left: 1px;
+    margin-right: 0px;
+    margin-left: 0px;
 }
 header nav li a{
     color: white;
     text-decoration: none;
 }
+article section h1{
+    padding-left: 65px;
+    padding-top: 0px;
+    font-size: 90px;
+    color: black;
+}
+h3{
+    font-size: 50px;
+    padding-left: 75px;
+    font-weight: lighter;
+}
+#foto-de-inicio{
+    float:unset;
+    float:right;
+    padding-right:550px;
+    width: 300px;
+}
+/*  Pagina 2  */
+#foto-de-inicio-1{
+    float:unset;
+    float:right;
+    padding-top: 5px;
+    padding-right:320px;
+    width: 600px;
+    /* clear: both; */
+}
+#parrafo_0{
+    padding-left: 75px;
+    margin-right: 1000px; 
+}
+#parrafo_0 strong{
+    color:black;
+}
+.h0{
+    font-size: 50px;
+    padding-left: 75px;
+    font-weight: bold;
+}
+/* Pagina 3 */
+#foto-de-inicio-2{
+    float:unset;
+    float: right;
+    padding-top: 5px;
+    padding-right:520px;
+    width: 400px;
+    margin-left: 15px;
+}
+
+.ol_0{
+    padding-top: 20px;
+    padding-left: 85px;
+    margin: 10px;
+}
+.ol_0 li{
+    padding-bottom: 5px;
+    font-size: 25px;
+}
+.h1{
+    font-size: 50px;
+    padding-left: 75px;
+    font-weight: bold;
+}
+/* Pagina 4 */
+#foto-de-inicio-3{
+    float:unset;
+    float: right;
+    padding-top: 17px;
+    padding-right:400px;
+    width: 600px;
+    margin-left: 15px;
+}
+/* Pagina 5 */
+#foto-de-inicio-4{
+    float:unset;
+    float: right;
+    padding-top: 17px;
+    padding-right:500px;
+    width: 400px;
+    margin-left: 15px;
+}
+/* Pagina 6 */
+#foto-de-inicio-5{
+    margin-top: 0px;
+    padding-left: 40px;
+    margin-left: 15px;
+}
+/* Pagina 7 */
+#foto-de-inicio-6{
+    padding-left: 40px;
+    margin-left: 15px;
+}
+/* Pagina 8 */
+#parrafo_0 b{
+    color:black;
+}
+/* Pagina 9 */
+#foto-de-inicio-7{
+    float: right;
+    padding-top: 0px;
+    padding-right:400px;
+    width: 500px;
+    margin-left: 15px;
+    margin-top: 0px;
+}
+article ul{
+    padding-top: 20px;
+    padding-left: 85px;
+    margin: 10px;
+}
+article ul li{
+    padding-bottom: 5px;
+    font-size: 25px;
+}
+/* Pagina 10 */
+
 
