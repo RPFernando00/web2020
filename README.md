@@ -4,7 +4,7 @@
 
 Te invito a ver mi proyecto de vida en el siguiente enlace:
 
-[Ver mi proyecto de vida](https://github.com/RPFernando00/web2020/tree/main/proyecto_vida)
+[Ver mi proyecto de vida](https://rpfernando00.github.io/web2020/proyecto_vida)
 
 Sigueme en mis redes sociales:¨
 
